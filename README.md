@@ -9,3 +9,5 @@ Available cheat:
 - See when you and others will die
 - Modify your last bullet
 - Edit your rank
+
+<img src="img.webp" />
